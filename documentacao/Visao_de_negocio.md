@@ -6,5 +6,5 @@ O projeto visa democratizar o acesso a recursos didáticos abrangendo diversos c
  O alvo público abrange estudantes de escolas públicas, universitárias e autodidatas.
 </p>
 <p>
-Os conteúdos geralmente organizados em cursos dentro de áreas de conhecimento — como Matemática, Tecnologia da Informação (TI) e outras. Os conteúdos que estarão estruturados em cursos serão acessados de forma sequencial, ou seja progressista. Já os cursos que estão inseridos em áreas de conhecimento poderão ser acessados de forma independente. Isso permite que os alunos possam ter a oportunidade de escolher qual área deseja estudar e, quando escolhido, devem aprender de forma sequencial, evitando que eles avancem de conteúdo sem saber do necessário.
+Os conteúdos geralmente organizados em cursos dentro de áreas de conhecimento — como Matemática, Tecnologia da Informação (TI) e outras. Os cursos, por sua vez, serão acessados ​​de forma sequencial, promovendo uma progressão orientada e estruturada, de forma a garantir que os alunos avancem apenas quando tiverem adquirido o conhecimento necessário. Os alunos poderão escolher livremente as áreas de conhecimento que desejam explorar, acessando os cursos disponíveis em cada área de acordo com suas preferências e necessidades.
 </p>
