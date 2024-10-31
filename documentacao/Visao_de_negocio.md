@@ -1,10 +1,10 @@
 # Visão de Negócio
 <p>
-A visão deste projeto visa possibilitar que todos possam acessar os recursos didáticos sobre diversos conteúdos. A proposta é criar uma aplicação que permite que os usuários tenham a possibilidade de poder estudar com os materiais didáticos gratuitos, com intuito de ou de ajudá-los a aprenderem novos assuntos ou de reforçarem seus conhecimentos já obtidos.
+O projeto visa democratizar o acesso a recursos didáticos abrangendo diversos conteúdos educacionais. A proposta é desenvolver uma aplicação que disponibilize materiais de estudo gratuitos, com o objetivo de apoiar tanto o aprendizado de novos assuntos quanto o reforço de conhecimentos já adquiridos.
 </p>
 <p>
- Os usuários podem ser desde estudantes de escolas públicas e universitários até os autodidatas.
+ O alvo público abrange estudantes de escolas públicas, universitárias e autodidatas.
 </p>
 <p>
-Já os conteúdos serão disponibilizados através de cursos, os quais podem acessar de forma progressiva, que estarão dentro de áreas de conhecimento - Matemática, TI, entre outros - de forma independente, ou seja, podem ser acessados em qualquer ordem.
+Os conteúdos geralmente organizados em cursos dentro de áreas de conhecimento — como Matemática, Tecnologia da Informação (TI) e outras. Os conteúdos que estarão estruturados em cursos serão acessados de forma sequencial, ou seja progressista. Já os cursos que estão inseridos em áreas de conhecimento poderão ser acessados de forma independente. Isso permite que os alunos possam ter a oportunidade de escolher qual área deseja estudar e, quando escolhido, devem aprender de forma sequencial, evitando que eles avancem de conteúdo sem saber do necessário.
 </p>
